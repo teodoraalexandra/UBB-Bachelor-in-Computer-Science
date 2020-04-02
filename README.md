@@ -1,17 +1,17 @@
 # UBB-Bachelor-in-Computer-Science
 
-<ul>
+<ul style="list-style-type:none">
   
-  <li>:open_file_folder: Semester 1
-    <ul>
+  <li> :large-orange-diamond: Semester 1
+    <ul style="list-style-type:none">
       <li>
         <a href="https://github.com/teodoraalexandra/Fundamental-Of-Programming"> Fundamental of programming </a>
       </li>
     </ul>
   </li>
   
-  <li>:open_file_folder: Semester 2
-    <ul>
+  <li> :large-orange-diamond: Semester 2
+    <ul style="list-style-type:none">
       <li>
         <a href="https://github.com/teodoraalexandra/Graph-Algorithms"> Graph algorithms </a>
       </li>
@@ -27,8 +27,8 @@
     </ul>
   </li>
   
-  <li>:open_file_folder: Semester 3
-    <ul>
+  <li> Semester 3
+    <ul style="list-style-type:none">
       <li>
         <a href="https://github.com/teodoraalexandra/Databases"> Databases </a>
       </li>
@@ -48,8 +48,6 @@
   </li>
 </ul>
 
-<br>
 <h1> Useful links: </h1>
-<p><i>Babeș-Bolyai university:</i> https://www.ubbcluj.ro/ro/ </p>
+<p><i>Babeș-Bolyai University:</i> https://www.ubbcluj.ro/ro/ </p>
 <p><i>Faculty of Mathematics and Computer Science:</i> http://www.cs.ubbcluj.ro </p>
-<br>
