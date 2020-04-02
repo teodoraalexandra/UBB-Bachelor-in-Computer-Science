@@ -1,4 +1,4 @@
-# UBB-Bachelor-in-Computer-Science
+<h1> :mortar_board: UBB-Bachelor-in-Computer-Science </h1>
 
 <ul>
   
@@ -48,6 +48,6 @@
   </li>
 </ul>
 
-<h1> Useful links: </h1>
+<h2> :paperclip: Useful links: </h2>
 <p><i>Babeș-Bolyai University:</i> https://www.ubbcluj.ro/ro/ </p>
 <p><i>Faculty of Mathematics and Computer Science:</i> http://www.cs.ubbcluj.ro </p>
