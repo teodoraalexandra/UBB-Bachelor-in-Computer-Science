@@ -1,8 +1,8 @@
 # UBB-Bachelor-in-Computer-Science
 
-<ul style="list-style-type:none">
+<ul>
   
-  <li> :large-orange-diamond: Semester 1
+  <li> :large_orange_diamond: Semester 1
     <ul style="list-style-type:none">
       <li>
         <a href="https://github.com/teodoraalexandra/Fundamental-Of-Programming"> Fundamental of programming </a>
@@ -10,7 +10,7 @@
     </ul>
   </li>
   
-  <li> :large-orange-diamond: Semester 2
+  <li> Semester 2
     <ul style="list-style-type:none">
       <li>
         <a href="https://github.com/teodoraalexandra/Graph-Algorithms"> Graph algorithms </a>
