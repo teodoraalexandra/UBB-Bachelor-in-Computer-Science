@@ -4,13 +4,13 @@
   
   <li> :large_orange_diamond: Semester 1
     <ul style="list-style-type:none">
-      <li>
+      <li> :small_blue_diamond:
         <a href="https://github.com/teodoraalexandra/Fundamental-Of-Programming"> Fundamental of programming </a>
       </li>
     </ul>
   </li>
   
-  <li> Semester 2
+  <li> :large_orange_diamond: Semester 2
     <ul style="list-style-type:none">
       <li>
         <a href="https://github.com/teodoraalexandra/Graph-Algorithms"> Graph algorithms </a>
@@ -27,7 +27,7 @@
     </ul>
   </li>
   
-  <li> Semester 3
+  <li> :large_orange_diamond: Semester 3
     <ul style="list-style-type:none">
       <li>
         <a href="https://github.com/teodoraalexandra/Databases"> Databases </a>
