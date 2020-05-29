@@ -53,7 +53,7 @@
         <a href="https://github.com/teodoraalexandra/Database-Management-Systems"> Database management systems </a>
       </li>
       <li> :small_blue_diamond:
-        <a href="hhttps://github.com/teodoraalexandra/Artificial-Intelligence"> Artificial intelligence </a>
+        <a href="https://github.com/teodoraalexandra/Artificial-Intelligence"> Artificial intelligence </a>
       </li>
       <li> :small_blue_diamond:
         <a href="https://github.com/teodoraalexandra/Web-Programming"> Web programming </a>
