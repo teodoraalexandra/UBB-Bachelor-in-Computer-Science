@@ -46,6 +46,20 @@
       </li>
     </ul>
   </li>
+  
+  <li> :large_orange_diamond: Semester 4
+    <ul style="list-style-type:none">
+      <li> :small_blue_diamond:
+        <a href="https://github.com/teodoraalexandra/Database-Management-Systems"> Database management systems </a>
+      </li>
+      <li> :small_blue_diamond:
+        <a href="hhttps://github.com/teodoraalexandra/Artificial-Intelligence"> Artificial intelligence </a>
+      </li>
+      <li> :small_blue_diamond:
+        <a href="https://github.com/teodoraalexandra/Web-Programming"> Web programming </a>
+      </li>
+    </ul>
+  </li>
 </ul>
 
 <h2> :paperclip: Useful links: </h2>
