@@ -58,6 +58,9 @@
       <li> :small_blue_diamond:
         <a href="https://github.com/teodoraalexandra/Web-Programming"> Web programming </a>
       </li>
+      <li> :small_blue_diamond:
+        <a href="https://github.com/teodoraalexandra/Systems-for-Design-and-Implementation"> Systems for design and implementation </a>
+      </li>
     </ul>
   </li>
 </ul>
