@@ -63,6 +63,24 @@
       </li>
     </ul>
   </li>
+  
+  <li> :large_orange_diamond: Semester 5
+    <ul style="list-style-type:none">
+      <li> :small_blue_diamond:
+        <a href="https://github.com/teodoraalexandra/Formal-Languages-and-Compiler-Design"> Formal languages and compiler design </a>
+      </li>
+      <li> :small_blue_diamond:
+        <a href="https://github.com/teodoraalexandra/Parallel-and-Distributed-Programming"> Parallel and distributed programming </a>
+      </li>
+      <li> :small_blue_diamond:
+        <a href="https://github.com/teodoraalexandra/Mobile-Application"> Mobile application </a>
+      </li>
+      <li> :small_blue_diamond:
+        <a href="https://github.com/teodoraalexandra/Audio-Video-Data-Processing"> Audio video data processing </a>
+      </li>
+    </ul>
+  </li>
+  
 </ul>
 
 <h2> :paperclip: Useful links: </h2>
