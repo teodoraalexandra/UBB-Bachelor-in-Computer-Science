@@ -81,6 +81,17 @@
     </ul>
   </li>
   
+  <li> :large_orange_diamond: Semester 6
+    <ul style="list-style-type:none">
+      <li> :small_blue_diamond:
+        <a href="https://github.com/teodoraalexandra/Numerical-Calculus"> Numerical calculus </a>
+      </li>
+      <li> :small_blue_diamond:
+        <a href="https://github.com/teodoraalexandra/Software-Systems-Verification-and-Validation"> Software systems verification and validation </a>
+      </li>
+    </ul>
+  </li>
+  
 </ul>
 
 <h2> :paperclip: Useful links: </h2>
